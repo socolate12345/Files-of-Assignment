@@ -1,0 +1,31 @@
+﻿ID,Guest First Name,Guest Last Name,Room,Room Type,Arrival Date,Departure Date,No of Guests,Daily Rate
+1,Barry,Lloyd,Hayes,Bay-window,01/12/2017,04/12/2017,2,150
+2,Michael,Lunsford,Cleveland,Ocean,01/12/2017,09/12/2017,3,112.5
+3,Kim,Kyuong,Coolidge,Bay-window,04/12/2017,07/12/2017,1,150
+4,Edward,Holt,Washington,Ocean,01/12/2017,03/12/2017,4,325
+5,Thomas,Collins,Lincoln,Ocean,09/12/2017,13/12/2017,2,300
+6,Paul,Bodkin,Coolidge,Bay-window,01/12/2017,03/12/2017,2,150
+7,Randall,Battenburg,Washington,Ocean,04/12/2017,12/12/2017,2,292.5
+8,Calvin,Nowotney,Lincoln,Ocean,02/12/2017,04/12/2017,1,300
+9,Homer,Gonzalez,Lincoln,Ocean,05/12/2017,07/12/2017,5,320
+10,David,Sanchez,Jefferson,Bay-window,05/12/2017,07/12/2017,2,175
+11,Buster,Whisler,Jackson,Ocean,05/12/2017,08/12/2017,2,250
+12,Julia,Martines,Reagan,Bay-window,10/12/2017,15/12/2017,1,150
+13,Samuel,Kim,Truman,Side,20/12/2017,30/12/2017,3,112.5
+14,Arthur,Gottfried,Garfield,Side,13/12/2017,15/12/2017,2,125
+15,Darlene,Shore,Arthur,Ocean,24/12/2017,31/12/2017,5,198
+16,Carlyle,Charleston,Quincy Adams,Bay-window,03/12/2017,06/12/2017,2,150
+17,Albert,Goldstone,Johnson,Ocean,05/12/2017,07/12/2017,3,250
+18,Charlene,Tilson,Van Buren,Bay-window,05/12/2017,07/12/2017,1,150
+19,Everett,Chad,Madison,Ocean,10/12/2017,14/12/2017,2,275
+20,Gerald,Pittsfield,Roosevelt,Ocean,05/12/2017,07/12/2017,2,275
+21,Jamal,Smith,Tyler,Bay-window,20/12/2017,23/12/2017,2,150
+22,Louis,Paris,Jackson,Ocean,10/12/2017,14/12/2017,1,250
+23,Nigel,Stratford,Eisenhower,Ocean,14/12/2017,16/12/2017,2,200
+24,Peter,Willington,Grant,Ocean,19/12/2017,21/12/2017,1,200
+25,Ronald,Cartier,Jefferson,Bay-window,24/12/2017,28/12/2017,4,175
+26,Trista,Leven,Eisenhower,Ocean,17/12/2017,20/12/2017,1,200
+27,Valerie,Snell,Adams,Bay-window,03/12/2017,06/12/2017,1,150
+28,Walter,Acton,Polk,Side,24/12/2017,31/12/2017,6,148.5
+29,Xavier,Trezza,McKinley,Side,14/12/2017,17/12/2017,2,125
+30,Zachary,Miller,Washington,Ocean,13/12/2017,16/12/2017,2,325
